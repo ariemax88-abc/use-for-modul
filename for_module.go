@@ -1,4 +1,4 @@
-package main
+package use_for_modul
 
 //jangan lupa awal huruf func buat Uppercase agar bisa diset public.
 func UseForModul() string {
